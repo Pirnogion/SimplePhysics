@@ -1,4 +1,6 @@
-#Simple Physics
+# Simple Physics
+
+![Иллюстрация к проекту](https://github.com/Pirnogion/ReadmeImagesStorage/raw/master/SimplePhysics.png)
 
 Navigate tips:
  * Use WASD keys for control body;
@@ -7,4 +9,4 @@ Navigate tips:
  * Use mouse whell to change zoom;
  * Also you can use gamepad.
 
- Require Love2d framework!
+Require Love2d framework!
